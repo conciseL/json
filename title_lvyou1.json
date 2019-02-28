@@ -1,0 +1,17 @@
+{
+  "code":"200",
+  "status":"success",
+  "message":"success",
+  "data":[
+    {
+      "id":"1",
+      "travel_name":"韩文公祠",
+      "travel_introduction":"韩文公祠是中国现存最早纪念唐代文学家韩愈的祠庙。位于城区东面的韩江东岸、笔架山中峰‘双旌石’下。笔架山或称东山，又因韩愈而称韩山。韩祠主体建筑分前后二进，古朴典雅，肃穆端庄。祠内梁间遍挂名家题写匾额，沿壁则环列历代碑刻40面，其中不乏书法珍品和研究专访文史的珍贵资料。2006年05月25日，韩文公祠作为明至清时期古建筑，被国务院批准列入第六批全国重点文物保护单位名单。",
+      "travel_grade":"AAAAA",
+      "travel_type(":"古代",
+      "travel_heat":"100%",
+      "travel_pic":"http://www.wuzhen.com.cn/uploads/day/2017102515381144382.jpg",
+      "travel_source":"网上"
+    }
+  ]
+}
